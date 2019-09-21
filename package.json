@@ -2,6 +2,11 @@
   "name": "google-docs",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm":"6.11.3",
+    "node": "v12.10.0"
+  },
+  
   "dependencies": {
     "firebase": "^6.6.1",
     "grpc": "^1.23.3",
